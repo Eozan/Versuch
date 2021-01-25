@@ -1,0 +1,13 @@
+{
+  "name": "Versuch",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Benan <74553596+Eozan@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "http-server": "^0.12.3"
+  },
+"scripts": {
+  "dev": "http-server"
+}
+}
